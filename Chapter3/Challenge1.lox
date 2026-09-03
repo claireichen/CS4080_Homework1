@@ -1,0 +1,10 @@
+print "Hello, Lox!";
+
+print !0;
+print !"";
+
+print "left" or "right";
+print nil or "right";
+
+print 123 == "123";
+print (0 / 0) == (0 / 0);
